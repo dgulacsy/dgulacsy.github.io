@@ -19,11 +19,11 @@ locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Dominik Gulácsy"
+description              : "Welcome to my portfolio website!"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : dgulacsy/dgulacsy.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -70,9 +70,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               :DominikGulacsy
 facebook:
-  username               :
+  username               :dominik.gulacsy
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -93,27 +93,27 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Dominik Gulácsy"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Hi, my name is Dominik Gulácsy. I am a Business Data Analyst with one year of professional experience combining business and financial education with analytical and programming skills. Currently, I am doing a master’s in Business Analytics at CEU and I help businesses to make better use of their data. To achieve this, I leverage my multidisciplinary knowledge to prepare and analyze data and communicate actionable insights to stakeholders. Through this process I turn your company’s business problem to business value. If this is something you are looking for then reach out to me at dominik.gulacsy@gmail.com"
+  location         : "Budapest, Hungary"
+  email            : "dominik.gulacsy@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:dominik.gulacsy@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/DominikGulacsy"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://facebook.com/dominik.gulacsy"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/dgulacsy"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
